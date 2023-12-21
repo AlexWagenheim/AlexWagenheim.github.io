@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333333;
+}
+
+@media screen and ( max-height: 770px ) {
+    .output textarea{
+        min-height: 20vh;
+        max-height: 20vh;
+        color: #333333;
+        font-size: 16px;
+        font-family: 'Courier New';
+        padding: 20px;
+        outline:none;
+        resize: none;
+    }
+}
+
+@media screen and ( min-height: 770px ) {
+    .output textarea{
+        min-height: 25vh;
+        max-height: 25vh;
+        color: #333333;
+        font-size: 16px;
+        font-family: 'Courier New';
+        padding: 20px;
+        outline:none;
+        resize: none;
+    }
+}
+
+.errors_max_modules{
+    min-height: 51.25vh;
+    max-height: 51.25vh;
+    color: #333333;
+    font-size: 16px;
+    padding: 20px;
+    outline: none;
+    text-align: center;
+    resize: none;
+    margin-bottom: -6.75px;
+}

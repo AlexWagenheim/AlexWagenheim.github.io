@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+}
+
+main{
+    height: 100%;
+    display: table-row;
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100%;
+}
+
+.content {
+    padding-bottom: 90px;
+}
+
+.for_footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.border_loading {
+    min-height: 51vh;
+    max-height: 51vh;
+    display: flex;
+    margin-top: -51vh;
+    position: absolute;
+    width: 400px;
+}

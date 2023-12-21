@@ -1,0 +1,5 @@
+export enum ResourceOwnerStatus {
+    OK = "OK",
+    INTERNAL_SERVER_ERROR = "INTERNAL_SERVER_ERROR",
+    UNAUTHORIZED = "UNAUTHORIZED"
+}
