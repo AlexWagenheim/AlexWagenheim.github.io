@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.160963aa.css",
-    "main.js": "/static/js/main.a46f6213.js",
-    "static/media/anon.png": "/static/media/anon.2525c89f431c78980218.png",
-    "static/media/Logo_black.png": "/static/media/Logo_black.343d7c459b895ec0452c.png",
-    "static/media/Wirth_w.png": "/static/media/Wirth_w.621319f568b2e250a6a4.png",
-    "static/media/play.png": "/static/media/play.bd95005cbb5fb3e7ae86.png",
-    "static/media/save.png": "/static/media/save.6d99cb09df5a92bff08e.png",
-    "static/media/down.png": "/static/media/down.12c4e14ccf4fcd6d65c1.png",
-    "static/media/tg.png": "/static/media/tg.85e4130f3cc1a02e7876.png",
-    "static/media/up.png": "/static/media/up.a3a05cfe5228a3f2e2af.png",
-    "static/media/vk.png": "/static/media/vk.ad00428c77a4bbb16398.png",
-    "static/media/save_m.gif": "/static/media/save_m.4051bae32e2fb707f05a.gif",
-    "static/media/3lines_m.gif": "/static/media/3lines_m.14b27b8649e7279490d7.gif",
-    "static/media/add_project.gif": "/static/media/add_project.c6e8751ebf0f01768e4f.gif",
-    "static/media/play_m2.gif": "/static/media/play_m2.f31c5db31a2065641cb9.gif",
-    "static/media/gh.png": "/static/media/gh.10aa1ce7a24d0deed6e2.png",
-    "index.html": "/index.html",
-    "main.160963aa.css.map": "/static/css/main.160963aa.css.map",
-    "main.a46f6213.js.map": "/static/js/main.a46f6213.js.map"
+    "main.css": "/alexwagenheim.github.io/static/css/main.160963aa.css",
+    "main.js": "/alexwagenheim.github.io/static/js/main.a71436b5.js",
+    "static/media/anon.png": "/alexwagenheim.github.io/static/media/anon.2525c89f431c78980218.png",
+    "static/media/Logo_black.png": "/alexwagenheim.github.io/static/media/Logo_black.343d7c459b895ec0452c.png",
+    "static/media/Wirth_w.png": "/alexwagenheim.github.io/static/media/Wirth_w.621319f568b2e250a6a4.png",
+    "static/media/play.png": "/alexwagenheim.github.io/static/media/play.bd95005cbb5fb3e7ae86.png",
+    "static/media/save.png": "/alexwagenheim.github.io/static/media/save.6d99cb09df5a92bff08e.png",
+    "static/media/down.png": "/alexwagenheim.github.io/static/media/down.12c4e14ccf4fcd6d65c1.png",
+    "static/media/tg.png": "/alexwagenheim.github.io/static/media/tg.85e4130f3cc1a02e7876.png",
+    "static/media/up.png": "/alexwagenheim.github.io/static/media/up.a3a05cfe5228a3f2e2af.png",
+    "static/media/vk.png": "/alexwagenheim.github.io/static/media/vk.ad00428c77a4bbb16398.png",
+    "static/media/save_m.gif": "/alexwagenheim.github.io/static/media/save_m.4051bae32e2fb707f05a.gif",
+    "static/media/3lines_m.gif": "/alexwagenheim.github.io/static/media/3lines_m.14b27b8649e7279490d7.gif",
+    "static/media/add_project.gif": "/alexwagenheim.github.io/static/media/add_project.c6e8751ebf0f01768e4f.gif",
+    "static/media/play_m2.gif": "/alexwagenheim.github.io/static/media/play_m2.f31c5db31a2065641cb9.gif",
+    "static/media/gh.png": "/alexwagenheim.github.io/static/media/gh.10aa1ce7a24d0deed6e2.png",
+    "index.html": "/alexwagenheim.github.io/index.html",
+    "main.160963aa.css.map": "/alexwagenheim.github.io/static/css/main.160963aa.css.map",
+    "main.a71436b5.js.map": "/alexwagenheim.github.io/static/js/main.a71436b5.js.map"
   },
   "entrypoints": [
     "static/css/main.160963aa.css",
-    "static/js/main.a46f6213.js"
+    "static/js/main.a71436b5.js"
   ]
 }
